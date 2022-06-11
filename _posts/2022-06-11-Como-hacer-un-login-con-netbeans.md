@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como hacer un login con netbeans
-subtitle: ~~sin morir en el intento~~
+subtitle: sin morir en el intento
 
 ---
 
