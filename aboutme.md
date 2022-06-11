@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ¿Quien soy?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Soy Augusto Díaz, actual estudiante de 2do semestre de Ingeniería de sistemas, nerd por excelencia, los profesores de matemáticas me caen mal 
+y tuve que aprender a programar en Java. Si algún tutorial de los que subo te ayuda a servir acepto gracias como transferencias bancarias
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
