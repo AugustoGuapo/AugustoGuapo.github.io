@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de mí
-subtitle: ¿Quien soy?
+subtitle: ¿Quién soy?
 ---
 
 Soy Augusto Díaz, actual estudiante de 2do semestre de Ingeniería de sistemas, nerd por excelencia, los profesores de matemáticas me caen mal 
